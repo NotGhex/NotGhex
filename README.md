@@ -4,7 +4,7 @@
 
 <h4>
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=notghex&show_icons=true&theme=dracula&hide_border=true&locale=en">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=notghex&show_icons=true&langs_count=5&theme=dracula&hide_border=true&locale=en&layout=compact">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=notghex&show_icons=true&langs_count=6&theme=dracula&hide_border=true&locale=en&layout=compact">
 </h4>
 
 ## 𝙇𝙄𝙉𝙆𝙎

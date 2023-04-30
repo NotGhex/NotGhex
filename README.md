@@ -1,4 +1,4 @@
-![](https://i.imgur.com/enoWeE9.png)
+![](https://i.imgur.com/hKoTBJ0.png)
 
 ## 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎
 

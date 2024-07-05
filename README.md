@@ -10,6 +10,6 @@
 
 ## 𝙇𝙄𝙉𝙆𝙎
 
-[Website](https://ghex.is-a.dev) | [Discord](https://discordapp.com/users/749120018771345488)
+[Website](https://ghex.is-a.dev) | [Discord](https://discordapp.com/users/749120018771345488) | [Buy Me Cooffee](https://ko-fi.com/catplvsplus)
 
 <!-- :3 -->

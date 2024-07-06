@@ -9,7 +9,7 @@
 </h4>
 
 ## 𝙇𝙄𝙉𝙆𝙎
+[Website](https://ghex.is-a.dev) | [Discord](https://discordapp.com/users/749120018771345488)
 
-[Website](https://ghex.is-a.dev) | [Discord](https://discordapp.com/users/749120018771345488) | [Buy Me Cooffee](https://ko-fi.com/catplvsplus)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y761QZ8)
 <!-- :3 -->
